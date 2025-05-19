@@ -1,0 +1,14 @@
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.AssemblyInfoInputs.cache
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.AssemblyInfo.cs
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.csproj.CoreCompileInputs.cache
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\bin\Debug\net8.0\Delegates_EX2.exe
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\bin\Debug\net8.0\Delegates_EX2.deps.json
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\bin\Debug\net8.0\Delegates_EX2.runtimeconfig.json
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\bin\Debug\net8.0\Delegates_EX2.dll
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\bin\Debug\net8.0\Delegates_EX2.pdb
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.dll
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\refint\Delegates_EX2.dll
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.pdb
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\Delegates_EX2.genruntimeconfig.cache
+C:\Users\ziadg\source\repos\Delegates_EX2\Delegates_EX2\obj\Debug\net8.0\ref\Delegates_EX2.dll
